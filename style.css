@@ -16,6 +16,11 @@ input{
     width: 20.8%;
     padding: 2em;
 }
+@media(max-width:375px){
+input{
+    width:90%;
+}
+
 
 /* CSS */
 .button {
